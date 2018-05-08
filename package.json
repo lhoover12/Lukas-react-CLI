@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "snippet": "./index.js"
+    "snippet": "./index.js",
+    "comp-me": "./index.js"
   },
   "author": "",
   "license": "ISC",
