@@ -2,6 +2,12 @@
 
 This is a small CLI I made to create a react component with an index file.
 
+get started
+Clone the repo then run 
+``
+npm install -g
+``
+
 Current set of commands
 
 ```
